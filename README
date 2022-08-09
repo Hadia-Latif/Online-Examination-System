@@ -10,6 +10,10 @@ Key features:
     7. Feedback system
 
 
+NOTE:
+please remove bycrpt & bycrpt js if you got anny issue in installation of npm packages 
+and install both of them randomly
+
 
 Steps to use:
 1. open the default.json file located inside the config folder in backend directory.
