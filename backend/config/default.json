@@ -1,6 +1,6 @@
 {
     "mongodb": {
-        "connectionString": "mongodb://admin:admin123@ds131296.mlab.com:31296/ecell"
+        "connectionString": "mongodb+srv://myexam:myexam@cluster0.oirjcmd.mongodb.net/test"
     },
     "jwt": {
         "secret": "Examination Portal Application"
