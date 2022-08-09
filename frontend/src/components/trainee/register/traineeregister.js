@@ -85,11 +85,11 @@ class TraineeRegisterForm extends Component {
     render() {
         const { getFieldDecorator } = this.props.form;
         const prefixSelector = getFieldDecorator('prefix', {
-            initialValue :'+91',
+            initialValue :'+92',
             rules: [{ required: true, message: 'Please enter contact no prefix' }],
         })(
             <Select style={{ width: 70 }}>
-              <Option value="+91">+91</Option>
+              <Option value="+92">+92</Option>
             </Select>,
         );
         return (
